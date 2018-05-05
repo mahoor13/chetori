@@ -1,6 +1,6 @@
 # Chetori
 
-A multi platform and portble Whatsapp messenger client, based on electron webview.
+A multi platform and portable Whatsapp messenger client, based on electron webview.
 This application fully tested on Ubuntu 18.04 LTS.
 It has a tray icon with the following options:
 - Open application
