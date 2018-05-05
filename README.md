@@ -30,3 +30,4 @@ sudo apt install libappindicator1 overlay-scrollbar-gtk2 libcanberra-gtk-module 
 - Proxy option
 - Keyboard Shortcuts
 - Run at startup option
+- Add pre-builded packages for Linux, Windows and Mac OSX
